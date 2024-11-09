@@ -1,0 +1,30 @@
+<svg
+  width="174"
+  height="30"
+  viewBox="0 0 174 30"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Icon Part (Shelf with Lightbulb) -->
+  <rect x="0" y="5" width="20" height="20" rx="3" fill="#1F2937" /> <!-- Dark gray for dark mode -->
+  <circle cx="10" cy="10" r="2" fill="#3FD97F" /> <!-- Green accent -->
+  <rect x="6" y="14" width="8" height="1.5" fill="#3FD97F" />
+  <rect x="6" y="17" width="8" height="1.5" fill="#3FD97F" />
+  <path
+    d="M15 5.5 L17.5 2 M17.5 2 L20 5.5"
+    stroke="#3FD97F"
+    stroke-width="1.5"
+    stroke-linecap="round"
+  />
+  
+  <!-- Text Part -->
+  <text
+    x="30"
+    y="20"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="bold"
+    fill="#E5E7EB">
+    SHELF GENIUS
+  </text>
+</svg>
